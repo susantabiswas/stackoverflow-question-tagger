@@ -12,3 +12,6 @@ This model can predict appropriate topic tags for a variety of StackOverflow que
 ### 2. Using TF-IDF
 ![tfidf1](media/tfidf1.JPG)
 ![tfidf2](media/tfidf2.JPG)
+
+### References
+Inspired by this course https://www.coursera.org/learn/language-processing
