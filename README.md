@@ -13,5 +13,7 @@ This model can predict appropriate topic tags for a variety of StackOverflow que
 ![tfidf1](media/tfidf1.JPG)
 ![tfidf2](media/tfidf2.JPG)
 
+As you can see there are some instances when the prediction made using TF-IDF gives us no meaningful result instead gives us a blank result. This problem can be solved by hyperparameter tuning, thereby increasing the model accuracy for unseen data. The above model uses SVM Linear classifier by the way.
+
 ### References
 Inspired by this course https://www.coursera.org/learn/language-processing
