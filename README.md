@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/susantabiswas/stackoverflow-question-tagger.svg)](http://hits.dwyl.io/susantabiswas/stackoverflow-question-tagger)
 # <u>StackOverflow Question Tagger
 StackOverflow lets the users to post their queries and the other users can help them with answers. The site uses tags for managing the questions effectively. Here we will be predicting tags for a given question. Tags like C, C++, Python are widely used.
 
